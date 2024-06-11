@@ -1,4 +1,7 @@
 ## Analise-de-Dados-de-RH
+
+### *Exemplo utilizado no curso da Data Science Academy
+
 ### Projeto de Análise Descritiva, Diagnóstica e Estatística de Dados de Recursos Humanos (RH) Utilizando Python
 Este projeto consiste em uma análise completa dos dados de Recursos Humanos (RH), abrangendo aspectos descritivos, diagnósticos e estatísticos. Foram utilizados dados reais, disponibilizados publicamente, e aplicadas diversas técnicas de análise de dados.
 
