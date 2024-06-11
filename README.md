@@ -1,5 +1,5 @@
 ## Analise-de-Dados-de-RH
-# Projeto de Análise Descritiva, Diagnóstica e Estatística de Dados de Recursos Humanos (RH) Utilizando Python
+### Projeto de Análise Descritiva, Diagnóstica e Estatística de Dados de Recursos Humanos (RH) Utilizando Python
 Este projeto consiste em uma análise completa dos dados de Recursos Humanos (RH), abrangendo aspectos descritivos, diagnósticos e estatísticos. Foram utilizados dados reais, disponibilizados publicamente, e aplicadas diversas técnicas de análise de dados.
 
 Definição do Problema de Negócio:
@@ -40,7 +40,7 @@ training_hours: training hours completed
 
 target: 0 – Not looking for job change, 1 – Looking for a job change
 
-# Com base em nossa análise, identificamos as variáveis mais relevantes para selecionar um bom candidato:
+### Com base em nossa análise, identificamos as variáveis mais relevantes para selecionar um bom candidato:
 
 1 - Índice de Desenvolvimento da cidade onde reside o candidato.
 
@@ -56,7 +56,7 @@ target: 0 – Not looking for job change, 1 – Looking for a job change
 
 7 - Especialização na graduação (quando aplicável).
 
-# As variáveis consideradas irrelevantes para a análise são:
+### As variáveis consideradas irrelevantes para a análise são:
 
 1 - ID do candidato.
 
@@ -70,7 +70,7 @@ target: 0 – Not looking for job change, 1 – Looking for a job change
 
 6 - Total de horas de treinamento.
 
-# Recomendações:
+### Recomendações:
 
 O RH pode desenvolver um método de coleta de dados para obter outras informações que melhorem a qualidade dos dados e tornem a análise mais precisa.
 
