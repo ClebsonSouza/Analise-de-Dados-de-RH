@@ -40,7 +40,7 @@ training_hours: training hours completed
 
 target: 0 – Not looking for job change, 1 – Looking for a job change
 
-## Com base em nossa análise, identificamos as variáveis mais relevantes para selecionar um bom candidato:
+# Com base em nossa análise, identificamos as variáveis mais relevantes para selecionar um bom candidato:
 
 1 - Índice de Desenvolvimento da cidade onde reside o candidato.
 
